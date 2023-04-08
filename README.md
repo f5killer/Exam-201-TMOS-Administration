@@ -7,6 +7,7 @@ specific subject, feel free to ping me or write a note on the article. Good luck
 Guys Please support us, while buying F5 201 TMOS Administration Course: [F5 TMOS](https://www.udemy.com/course/f5-201-tmos-admin-v131-practice-exams-question-april-2023/)
 
 ![F5 TMOS](https://github.com/f5killer/Exam-201-TMOS-Administration/blob/main/f5_201.png?raw=true)[F5 TMOS](https://www.udemy.com/course/f5-201-tmos-admin-v131-practice-exams-question-april-2023/)
+[link text](https://www.youtube.com/watch?v=Q-GPb4EREgU&list=PLp0Kqt2EWTuHBI390Js3Qb2JaP_HbZwXd "F5 TMOS")
 
 UDEMY course: https://www.udemy.com/course/f5-201-tmos-admin-v131-practice-exams-question-april-2023
 
