@@ -8,11 +8,10 @@ specific subject, feel free to ping me or write a note on the article. Good luck
 
 UDEMY course: https://www.udemy.com/course/f5-201-tmos-admin-v131-practice-exams-question-april-2023
 
-K15234: Adding trunked ports to a VLAN using tmsh (11.x - 16.x)
-https://support.f5.com/csp/article/dfdfdfK15234
-
-K1689: Overview of trunks on BIG-IP platforms
-https://support.f5.com/csp/article/K1689
+| Article Name | Links |
+| --- | --- |
+| K15234: Adding trunked ports to a VLAN using tmsh (11.x - 16.x) | https://support.f5.com/csp/article/dfdfdfK15234 |
+| K1689: Overview of trunks on BIG-IP platforms | https://support.f5.com/csp/article/K1689 |
 
 K14961: Create and modify VLANs using the tmsh utility
 https://support.f5.com/csp/article/K14961
