@@ -12,25 +12,12 @@ UDEMY course: https://www.udemy.com/course/f5-201-tmos-admin-v131-practice-exams
 
 | Article Name | Links |
 | --- | --- |
-| K15234: Adding trunked ports to a VLAN using tmsh (11.x - 16.x) | https://support.f5.com/csp/article/dfdfdfK15234 |
+| K15234: Adding trunked ports to a VLAN using tmsh (11.x - 16.x) | https://my.f5.com/manage/s/article/K15234 |
 | K1689: Overview of trunks on BIG-IP platforms | https://support.f5.com/csp/article/K1689 |
-
-K14961: Create and modify VLANs using the tmsh utility
-https://support.f5.com/csp/article/K14961
-
-https://techdocs.f5.com/kb/en-us/products/big-ip_ltm/manuals/product/tmos-routing-administration-13-1-0/5.html
-
-https://techdocs.f5.com/kb/en-us/products/big-ip_ltm/manuals/product/tmos-routing-administration-13-1-0/5.html
-
-https://techdocs.f5.com/kb/en-us/products/big-ip_ltm/manuals/product/bigip-system-ecmp-mirrored-clustering-12-1-0/2.html
-
-https://techdocs.f5.com/kb/en-us/products/big-ip_ltm/manuals/product/tmos-routing-administration-13-0-0/5.html
-
-K83419154: Overview of cookie persistence
-https://support.f5.com/csp/article/K83419154
-
-Persistence profile types
-https://techdocs.f5.com/kb/en-us/products/big-ip_ltm/manuals/product/ltm-profiles-reference-13-0-0/4.html
+| K14961: Create and modify VLANs using the tmsh utility | https://support.f5.com/csp/article/K14961 |
+| Manual Chapter : VLANs VLAN Groups and VXLAN | https://techdocs.f5.com/kb/en-us/products/big-ip_ltm/manuals/product/tmos-routing-administration-13-1-0/5.html |
+| K83419154: Overview of cookie persistence | https://support.f5.com/csp/article/K83419154 |
+| Persistence profile types                 | https://techdocs.f5.com/kb/en-us/products/big-ip_ltm/manuals/product/ltm-profiles-reference-13-0-0/4.html |
 
 K5837: Match Across options for session persistence
 https://support.f5.com/csp/article/K5837
