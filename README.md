@@ -4,6 +4,7 @@ Hello guys, this is a new guide that I have created for those who are interested
 This guide is based on blueprint version 13.1 described in the article K29900360. I hope this helps you and if you have any doubt about a 
 specific subject, feel free to ping me or write a note on the article. Good luck!!!
 
+UDEMY course: https://www.udemy.com/course/f5-201-tmos-admin-v131-practice-exams-question-april-2023
 
 K15234: Adding trunked ports to a VLAN using tmsh (11.x - 16.x)
 https://support.f5.com/csp/article/dfdfdfK15234
