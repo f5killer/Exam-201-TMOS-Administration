@@ -19,24 +19,12 @@ UDEMY course: https://www.udemy.com/course/f5-201-tmos-admin-v131-practice-exams
 | Manual Chapter : VLANs VLAN Groups and VXLAN | https://techdocs.f5.com/kb/en-us/products/big-ip_ltm/manuals/product/tmos-routing-administration-13-1-0/5.html |
 | K83419154: Overview of cookie persistence | https://support.f5.com/csp/article/K83419154 |
 | Persistence profile types                 | https://techdocs.f5.com/kb/en-us/products/big-ip_ltm/manuals/product/ltm-profiles-reference-13-0-0/4.html |
-
-K5837: Match Across options for session persistence
-https://support.f5.com/csp/article/K5837
-
-K16008: Overview of BIG-IP pool status (11.x - 16.x)
-https://support.f5.com/csp/article/K16008
-
-K13310: Disabling nodes or pool members for maintenance (11.x - 16.x)
-https://support.f5.com/csp/article/K13310
-
-K30483109: Overview of Fallback Persistence
-https://support.f5.com/csp/article/K30483109
-
-K14800: Order of precedence for virtual server matching (11.3.0 and later)
-https://support.f5.com/csp/article/K14800
-
-K55185917: Overview of BIG-IP virtual server types (12.x - 16.x)
-https://support.f5.com/csp/article/K55185917
+| K5837: Match Across options for session persistence | https://support.f5.com/csp/article/K5837 |
+| K16008: Overview of BIG-IP pool status (11.x - 16.x) | https://support.f5.com/csp/article/K16008 |
+| K13310: Disabling nodes or pool members for maintenance (11.x - 16.x) | https://support.f5.com/csp/article/K13310 |
+| K30483109: Overview of Fallback Persistence | https://support.f5.com/csp/article/K30483109 |
+| K14800: Order of precedence for virtual server matching (11.3.0 and later) | https://support.f5.com/csp/article/K14800 |
+| K55185917: Overview of BIG-IP virtual server types (12.x - 16.x) | https://support.f5.com/csp/article/K55185917 |
 
 K8082: Overview of TCP connection setup for BIG-IP LTM virtual server types
 https://support.f5.com/csp/article/K8082
