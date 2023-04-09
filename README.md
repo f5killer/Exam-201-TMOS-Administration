@@ -25,15 +25,9 @@ UDEMY course: https://www.udemy.com/course/f5-201-tmos-admin-v131-practice-exams
 | K30483109: Overview of Fallback Persistence | https://support.f5.com/csp/article/K30483109 |
 | K14800: Order of precedence for virtual server matching (11.3.0 and later) | https://support.f5.com/csp/article/K14800 |
 | K55185917: Overview of BIG-IP virtual server types (12.x - 16.x) | https://support.f5.com/csp/article/K55185917 |
-
-K8082: Overview of TCP connection setup for BIG-IP LTM virtual server types
-https://support.f5.com/csp/article/K8082
-
-K30483109: Overview of Fallback Persistence
-https://support.f5.com/csp/article/K30483109
-
-K85543242: Additional virtual address Route Advertisement configuration options available
-https://support.f5.com/csp/article/K85543242
+| K8082: Overview of TCP connection setup for BIG-IP LTM virtual server types | https://support.f5.com/csp/article/K8082 |
+| K30483109: Overview of Fallback Persistence | https://support.f5.com/csp/article/K30483109 |
+| K85543242: Additional virtual address Route Advertisement configuration options available | https://support.f5.com/csp/article/K85543242 |
 
 K73102250: Virtual-address route-advertisement setting can revert to disabled after config load or after re-license
 https://support.f5.com/csp/article/K73102250
@@ -82,10 +76,6 @@ https://support.f5.com/csp/article/K7595
 K13675: Overview of the stateless virtual server
 https://support.f5.com/csp/article/K13675
 
-https://techdocs.f5.com/kb/en-us/products/big-ip_ltm/manuals/product/tmos-implementations-13-0-0/8.html
-
-https://devcentral.f5.com/s/articles/a-new-and-better-nagle-algorithm-26767#:~:text=Nagle's%20Algorithm%20seeks%20to%20reduce,TCP%20sends%20by%20sacrificing%20latency.&text=This%20is%20because%20F5%20implementations,data%20that%20will%20never%20arrive.
-
 K40243113: Overview of the HTTP profile
 https://support.f5.com/csp/article/K40243113
 
@@ -121,7 +111,6 @@ https://support.f5.com/csp/article/K16008
 K13525153: Configure a standby pool member to process traffic when primary pool member goes down
 https://support.f5.com/csp/article/K13525153
 
-https://techdocs.f5.com/kb/en-us/archived_products/sam/manuals/product/pg_4300/pg_4300_addfunct.html
 
 K08452454: Determining the failover status of a BIG-IP system using tmsh
 https://support.f5.com/csp/article/K08452454
@@ -152,8 +141,6 @@ https://support.f5.com/csp/article/K13132
 
 K34745165: Managing software images on the BIG-IP system
 https://support.f5.com/csp/article/K34745165
-
-https://techdocs.f5.com/kb/en-us/products/big-ip_ltm/manuals/product/bigip-user-account-administration-11-6-0/5.html
 
 K12173: Overview of BIG-IP administrative access controls
 https://support.f5.com/csp/article/K12173
