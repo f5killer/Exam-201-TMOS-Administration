@@ -28,42 +28,18 @@ UDEMY course: https://www.udemy.com/course/f5-201-tmos-admin-v131-practice-exams
 | K8082: Overview of TCP connection setup for BIG-IP LTM virtual server types | https://support.f5.com/csp/article/K8082 |
 | K30483109: Overview of Fallback Persistence | https://support.f5.com/csp/article/K30483109 |
 | K85543242: Additional virtual address Route Advertisement configuration options available | https://support.f5.com/csp/article/K85543242 |
-
-K73102250: Virtual-address route-advertisement setting can revert to disabled after config load or after re-license
-https://support.f5.com/csp/article/K73102250
-
-K7747: Error Message: SSL transaction (TPS) rate limit reached
-https://support.f5.com/csp/article/K7747
-
-K7747: Error Message: SSL transaction (TPS) rate limit reached
-https://support.f5.com/csp/article/K7747
-
-About connection rate limiting
-https://techdocs.f5.com/en-us/bigip-14-1-0/big-ip-local-traffic-management-basics-14-1-0/about-virtual-servers.html
-
-K13284: Overview of management interface ro uting (11.x - 16.x)
-https://support.f5.com/csp/article/K13284
-
-K3451: Content length limits for HTTP and HTTPS health monitors
-https://support.f5.com/csp/article/K3451
-
-https://techdocs.f5.com/en-us/bigip-14-1-0/big-ip-local-traffic-management-basics-14-1-0/enabling-and-disabling-local-traffic-objects.html
-
-K02024845: BIG-IP LTM-DNS operations guide | Chapter 2: BIG-IP LTM load balancing
-https://support.f5.com/csp/article/K02024845
-
-K32857340: Displayed virtual server CPU statistics may be incorrect
-https://support.f5.com/csp/article/K32857340
-
-K15468: Overview of BIG-IP TMM CPU usage
-https://support.f5.com/csp/article/K15468
-
-K05501591: LTM Overview of the CPU Utilization performance on BIG-IP graphs and CLI
-https://support.f5.com/csp/article/K05501591
-
-K05501591: LTM Overview of the CPU Utilization performance on BIG-IP graphs and CLI
-https://support.f5.com/csp/article/K05501591
-
+| K73102250: Virtual-address route-advertisement setting can revert to disabled after config load or after re-license |https://support.f5.com/csp/article/K73102250 | | K7747: Error Message: SSL transaction (TPS) rate limit reached | https://support.f5.com/csp/article/K7747 |
+| K7747: Error Message: SSL transaction (TPS) rate limit reached | https://support.f5.com/csp/article/K7747 |
+| About connection rate limiting | https://techdocs.f5.com/en-us/bigip-14-1-0/big-ip-local-traffic-management-basics-14-1-0/about-virtual-servers.html |
+| K13284: Overview of management interface ro uting (11.x - 16.x) | https://support.f5.com/csp/article/K13284 |
+| K3451: Content length limits for HTTP and HTTPS health monitors | https://support.f5.com/csp/article/K3451 |
+| F5 Tech Doc | https://techdocs.f5.com/en-us/bigip-14-1-0/big-ip-local-traffic-management-basics-14-1-0/enabling-and-disabling-local-traffic-objects.html |
+| K02024845: Chapter 2: BIG-IP LTM load balancing | https://support.f5.com/csp/article/K02024845 |
+| K32857340: Displayed virtual server CPU statistics may be incorrect | https://support.f5.com/csp/article/K32857340 |
+| K15468: Overview of BIG-IP TMM CPU usage |  https://support.f5.com/csp/article/K15468 |
+| K05501591: LTM Overview of the CPU Utilization performance on BIG-IP graphs and CLI | https://support.f5.com/csp/article/K05501591 |
+| K05501591: LTM Overview of the CPU Utilization performance on BIG-IP graphs and CLI | https://support.f5.com/csp/article/K05501591 |
+ 
 K55185917: Overview of BIG-IP virtual server types (12.x - 16.x)
 https://support.f5.com/csp/article/K55185917
 
