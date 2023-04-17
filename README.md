@@ -6,8 +6,6 @@ If it is helpful then please [Buy Me A Coffee](https://www.buymeacoffee.com/Opsc
 
 Guys Please support us, while buying F5 201 TMOS Administration Course: [F5 TMOS](https://www.udemy.com/course/f5-201-tmos-admin-v131-practice-exams-question-april-2023/?referralCode=4E472E44208A01D3C20C)
 
-[![F5 TMOS](f5_201.png)](https://www.udemy.com/course/f5-201-tmos-admin-v131-practice-exams-question-april-2023/?referralCode=4E472E44208A01D3C20C)
-
 | Article Name | Links |
 | --- | --- |
 | K15234: Adding trunked ports to a VLAN using tmsh (11.x - 16.x) | https://my.f5.com/manage/s/article/K15234 |
