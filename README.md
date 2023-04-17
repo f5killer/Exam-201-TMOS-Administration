@@ -2,7 +2,7 @@
 
 Hello guys, this is a new guide that I have created for those who are interested in taking the 201 - TMOS Administration exam of F5 Networks. 
 This guide is based on blueprint version 13.1 described in the article K29900360. 
-If it is helpful then please [![Please Buy Me A Coffee](https://www.buymeacoffee.com/Opscyber)
+If it is helpful then please [Please Buy Me A Coffee](https://www.buymeacoffee.com/Opscyber)
 
 Guys Please support us, while buying F5 201 TMOS Administration Course: [F5 TMOS](https://www.udemy.com/course/f5-201-tmos-admin-v131-practice-exams-question-april-2023/?referralCode=4E472E44208A01D3C20C)
 
