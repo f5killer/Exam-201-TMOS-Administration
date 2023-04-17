@@ -6,10 +6,8 @@ specific subject, feel free to ping me or write a note on the article. Good luck
 
 Guys Please support us, while buying F5 201 TMOS Administration Course: [F5 TMOS](https://www.udemy.com/course/f5-201-tmos-admin-v131-practice-exams-question-april-2023/?referralCode=4E472E44208A01D3C20C)
 
-[[F5 TMOS]](https://www.udemy.com/course/f5-201-tmos-admin-v131-practice-exams-question-april-2023/?referralCode=4E472E44208A01D3C20C)
 [![F5 TMOS](f5_201.png)](https://www.udemy.com/course/f5-201-tmos-admin-v131-practice-exams-question-april-2023/?referralCode=4E472E44208A01D3C20C)
 
-UDEMY course: https://www.udemy.com/course/f5-201-tmos-admin-v131-practice-exams-question-april-2023/?referralCode=4E472E44208A01D3C20C
 
 | Article Name | Links |
 | --- | --- |
@@ -45,60 +43,23 @@ UDEMY course: https://www.udemy.com/course/f5-201-tmos-admin-v131-practice-exams
 | K13675: Overview of the stateless virtual server | https://support.f5.com/csp/article/K13675 |
 | K40243113: Overview of the HTTP profile | https://support.f5.com/csp/article/K40243113 |
 | K4707: Choosing appropriate profiles for HTTP traffic | https://support.f5.com/csp/article/K4707 |
-
-K3422: Overview of content spooling
-https://support.f5.com/csp/article/K3422
-
-K10711911: Overview of the TCP profile (13.x)
-https://support.f5.com/csp/article/K10711911
-
-K93144409: Overview of the f5-tcp-mobile profile (13.x - 15.x)
-https://support.f5.com/csp/article/K93144409
-
-K10281257: Overview of the f5-tcp-wan profile (13.x - 15.x)
-https://support.f5.com/csp/article/K10281257
-
-K03553427: Using optimized TCP profiles
-https://support.f5.com/csp/article/K03553427
-
-K10549: Overview of the tcp-cell-optimized profile
-https://support.f5.com/csp/article/K10549
-
-K37412295: Overview of the f5-tcp-lan profile (13.x - 15.x)
-https://support.f5.com/csp/article/K37412295
-
-https://techdocs.f5.com/dam/f5/kb/global/solutions/K29900360.html/201_-_TMOS_Administration.pdf
-
-K16008: Overview of BIG-IP pool status (11.x - 16.x)
-https://support.f5.com/csp/article/K16008
-
-K13525153: Configure a standby pool member to process traffic when primary pool member goes down
-https://support.f5.com/csp/article/K13525153
-
-
-K08452454: Determining the failover status of a BIG-IP system using tmsh
-https://support.f5.com/csp/article/K08452454
-
-K15122: Overview of the Force Offline option for devices and traffic groups
-https://support.f5.com/csp/article/K15122
-
-K7820: Overview of SNAT features
-https://support.f5.com/csp/article/K7820
-
-K17333: Overview of port lockdown behavior (12.x - 16.x)
-https://support.f5.com/csp/article/K17333
-
-K13309: Restricting access to the Configuration utility by source IP address (11.x - 16.x)
-https://support.f5.com/csp/article/K13309
-
-K5380: Specify allowable IP ranges for SSH access
-https://support.f5.com/csp/article/K5380-
-
-K16197: Reviewing BIG-IP log files
-https://support.f5.com/csp/article/K16197
-
-K13317: Configuring the level of information that syslog-ng sends to log files (11.x)
-https://support.f5.com/csp/article/K13317
+| K3422: Overview of content spooling | https://support.f5.com/csp/article/K3422 |
+| K10711911: Overview of the TCP profile (13.x) | https://support.f5.com/csp/article/K10711911 |
+| K93144409: Overview of the f5-tcp-mobile profile (13.x - 15.x) | https://support.f5.com/csp/article/K93144409 |
+| K10281257: Overview of the f5-tcp-wan profile (13.x - 15.x) | https://support.f5.com/csp/article/K10281257 |
+| K03553427: Using optimized TCP profiles | https://support.f5.com/csp/article/K03553427 |
+| K10549: Overview of the tcp-cell-optimized profile | https://support.f5.com/csp/article/K10549 |
+| K37412295: Overview of the f5-tcp-lan profile (13.x - 15.x) | https://support.f5.com/csp/article/K37412295 |
+| K16008: Overview of BIG-IP pool status (11.x - 16.x) | https://support.f5.com/csp/article/K16008 |
+| K13525153: Configure a standby pool member to process traffic when primary pool member goes down | https://support.f5.com/csp/article/K13525153 |
+| K08452454: Determining the failover status of a BIG-IP system using tmsh | https://support.f5.com/csp/article/K08452454 | 
+| K15122: Overview of the Force Offline option for devices and traffic groups | https://support.f5.com/csp/article/K15122 |
+| K7820: Overview of SNAT features | https://support.f5.com/csp/article/K7820 |
+| K17333: Overview of port lockdown behavior (12.x - 16.x) | https://support.f5.com/csp/article/K17333 |
+| K13309: Restricting access to the Configuration utility by source IP address (11.x - 16.x) | https://support.f5.com/csp/article/K13309 | 
+| K5380: Specify allowable IP ranges for SSH access | https://support.f5.com/csp/article/K5380 | 
+| K16197: Reviewing BIG-IP log files | https://support.f5.com/csp/article/K16197 | 
+| K13317: Configuring the level of information that syslog-ng sends to log files (11.x) |  https://support.f5.com/csp/article/K13317 |
 
 K13132: Backing up and restoring BIG-IP configuration files with a UCS archive
 https://support.f5.com/csp/article/K13132
@@ -151,21 +112,13 @@ https://support.f5.com/csp/article/K7727
 K7172: Overview of the End User Diagnostics software
 https://support.f5.com/csp/article/K7172
 
-https://techdocs.f5.com/kb/en-us/products/big-ip_ltm/releasenotes/related/eud-sf/2.html
+| K2633: Instructions for submitting a support case to F5 | https://support.f5.com/csp/article/K2633 |
+| K12878: Generating diagnostic data using the qkview utility | https://support.f5.com/csp/article/K12878| 
+| K10749: Packet filter system logs | https://support.f5.com/csp/article/K10749
+| K37361453: Configuring network failover for redundant VIPRION systems (13.x - 16.x) | https://support.f5.com/csp/article/K37361453 | 
+| https://techdocs.f5.com/dam/f5/kb/global/solutions/K29900360.html/201_-_TMOS_Administration.pdf | 
 
-https://techdocs.f5.com/content/kb/en-us/products/big-ip_ltm/releasenotes/related/eud-sf/_jcr_content/pdfAttach/download/file.res/Field_Testing_F5_Hardware__iSeries_Platforms.pdf
-
-K2633: Instructions for submitting a support case to F5
-https://support.f5.com/csp/article/K2633
-
-K12878: Generating diagnostic data using the qkview utility
-https://support.f5.com/csp/article/K12878
-
-K10749: Packet filter system logs
-https://support.f5.com/csp/article/K10749
-
-K37361453: Configuring network failover for redundant VIPRION systems (13.x - 16.x)
-https://support.f5.com/csp/article/K37361453
+https://techdocs.f5.com/content/kb/en-us/products/big-ip_ltm/releasenotes/related/eud-sf/_jcr_content/pdfAttach/download/file.res/Field_Testing_F5_Hardware__iSeries_Platforms.pdf | 
 
 About BIG-IQ, ensure that you know the main functions of the product, e.g. 
 - Distribute Software 
