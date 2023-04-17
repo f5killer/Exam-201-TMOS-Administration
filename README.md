@@ -4,12 +4,12 @@ Hello guys, this is a new guide that I have created for those who are interested
 This guide is based on blueprint version 13.1 described in the article K29900360. I hope this helps you and if you have any doubt about a 
 specific subject, feel free to ping me or write a note on the article. Good luck!!!
 
-Guys Please support us, while buying F5 201 TMOS Administration Course: [F5 TMOS](https://www.udemy.com/course/f5-201-tmos-admin-v131-practice-exams-question-april-2023/)
+Guys Please support us, while buying F5 201 TMOS Administration Course: [F5 TMOS](https://www.udemy.com/course/f5-201-tmos-admin-v131-practice-exams-question-april-2023/?referralCode=4E472E44208A01D3C20C)
 
-[[F5 TMOS]](https://www.udemy.com/course/f5-201-tmos-admin-v131-practice-exams-question-april-2023/)
-[![F5 TMOS](f5_201.png)](https://www.udemy.com/course/f5-201-tmos-admin-v131-practice-exams-question-april-2023)
+[[F5 TMOS]](https://www.udemy.com/course/f5-201-tmos-admin-v131-practice-exams-question-april-2023/?referralCode=4E472E44208A01D3C20C)
+[![F5 TMOS](f5_201.png)](https://www.udemy.com/course/f5-201-tmos-admin-v131-practice-exams-question-april-2023/?referralCode=4E472E44208A01D3C20C)
 
-UDEMY course: https://www.udemy.com/course/f5-201-tmos-admin-v131-practice-exams-question-april-2023
+UDEMY course: https://www.udemy.com/course/f5-201-tmos-admin-v131-practice-exams-question-april-2023/?referralCode=4E472E44208A01D3C20C
 
 | Article Name | Links |
 | --- | --- |
@@ -39,24 +39,12 @@ UDEMY course: https://www.udemy.com/course/f5-201-tmos-admin-v131-practice-exams
 | K15468: Overview of BIG-IP TMM CPU usage |  https://support.f5.com/csp/article/K15468 |
 | K05501591: LTM Overview of the CPU Utilization performance on BIG-IP graphs and CLI | https://support.f5.com/csp/article/K05501591 |
 | K05501591: LTM Overview of the CPU Utilization performance on BIG-IP graphs and CLI | https://support.f5.com/csp/article/K05501591 |
- 
-K55185917: Overview of BIG-IP virtual server types (12.x - 16.x)
-https://support.f5.com/csp/article/K55185917
-
-K8082: Overview of TCP connection setup for BIG-IP LTM virtual server types
-https://support.f5.com/csp/article/K8082
-
-K7595: Overview of IP forwarding virtual servers
-https://support.f5.com/csp/article/K7595
-
-K13675: Overview of the stateless virtual server
-https://support.f5.com/csp/article/K13675
-
-K40243113: Overview of the HTTP profile
-https://support.f5.com/csp/article/K40243113
-
-K4707: Choosing appropriate profiles for HTTP traffic
-https://support.f5.com/csp/article/K4707
+| K55185917: Overview of BIG-IP virtual server types (12.x - 16.x) | https://support.f5.com/csp/article/K55185917 |
+| K8082: Overview of TCP connection setup for BIG-IP LTM virtual server types | https://support.f5.com/csp/article/K8082 |
+| K7595: Overview of IP forwarding virtual servers | https://support.f5.com/csp/article/K7595 |
+| K13675: Overview of the stateless virtual server | https://support.f5.com/csp/article/K13675 |
+| K40243113: Overview of the HTTP profile | https://support.f5.com/csp/article/K40243113 |
+| K4707: Choosing appropriate profiles for HTTP traffic | https://support.f5.com/csp/article/K4707 |
 
 K3422: Overview of content spooling
 https://support.f5.com/csp/article/K3422
@@ -170,6 +158,15 @@ https://techdocs.f5.com/content/kb/en-us/products/big-ip_ltm/releasenotes/relate
 K2633: Instructions for submitting a support case to F5
 https://support.f5.com/csp/article/K2633
 
+K12878: Generating diagnostic data using the qkview utility
+https://support.f5.com/csp/article/K12878
+
+K10749: Packet filter system logs
+https://support.f5.com/csp/article/K10749
+
+K37361453: Configuring network failover for redundant VIPRION systems (13.x - 16.x)
+https://support.f5.com/csp/article/K37361453
+
 About BIG-IQ, ensure that you know the main functions of the product, e.g. 
 - Distribute Software 
 - Restart Device 
@@ -188,19 +185,3 @@ About BIG-IQ, ensure that you know the main functions of the product, e.g.
 - Create new pools, nodes, iRules
 - Revert Configuration 
 
-https://devcentral.f5.com/s/articles/what-is-big-iq-26702
-
-https://techdocs.f5.com/kb/en-us/products/big-ip_ltm/manuals/product/ltm-profiles-reference-13-0-0/4.html
-
-https://techdocs.f5.com/kb/en-us/products/big-iq-device/manuals/product/bigiq-device-management-4-2-0/8.html
-
-https://techdocs.f5.com/kb/en-us/products/big-iq-device/manuals/product/bigiq-device-management-4-2-0.html
-
-K12878: Generating diagnostic data using the qkview utility
-https://support.f5.com/csp/article/K12878
-
-K10749: Packet filter system logs
-https://support.f5.com/csp/article/K10749
-
-K37361453: Configuring network failover for redundant VIPRION systems (13.x - 16.x)
-https://support.f5.com/csp/article/K37361453
