@@ -8,6 +8,7 @@ Guys Please support us, while buying F5 201 TMOS Administration Course: [F5 TMOS
 
 [![F5 TMOS](f5_201.png)](https://www.udemy.com/course/f5-201-tmos-admin-v131-practice-exams-question-april-2023/?referralCode=4E472E44208A01D3C20C)
 
+F5 TMOS 201 LAB Guide is available at cost of 1$, Please mail to agurunetworks@gmail.com
 
 | Article Name | Links |
 | --- | --- |
@@ -103,3 +104,4 @@ About BIG-IQ, ensure that you know the main functions of the product, e.g.
 - Create new pools, nodes, iRules
 - Revert Configuration 
 
+F5 TMOS 201 LAB Guide is available at cost of 1$, Please mail to agurunetworks@gmail.com
