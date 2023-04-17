@@ -60,58 +60,23 @@ Guys Please support us, while buying F5 201 TMOS Administration Course: [F5 TMOS
 | K5380: Specify allowable IP ranges for SSH access | https://support.f5.com/csp/article/K5380 | 
 | K16197: Reviewing BIG-IP log files | https://support.f5.com/csp/article/K16197 | 
 | K13317: Configuring the level of information that syslog-ng sends to log files (11.x) |  https://support.f5.com/csp/article/K13317 |
-
-K13132: Backing up and restoring BIG-IP configuration files with a UCS archive
-https://support.f5.com/csp/article/K13132
-
-K34745165: Managing software images on the BIG-IP system
-https://support.f5.com/csp/article/K34745165
-
-K12173: Overview of BIG-IP administrative access controls
-https://support.f5.com/csp/article/K12173
-
-K13121: Changing system maintenance account passwords (11.x - 16.x)
-https://support.f5.com/csp/article/K13121
-
-K17403: Configuring RADIUS authentication for administrative users
-https://support.f5.com/csp/article/K17403
-
-K13205: Configuring the BIG-IP system to resolve DNS hostnames (11.x and later)
-https://support.f5.com/csp/article/K13205
-
-K13380: Configuring the BIG-IP system to use an NTP server from the command line (11.x - 16.x)
-https://support.f5.com/csp/article/K13380
-
-K52219241: Configuring SNMP access to the BIG-IP system
-https://support.f5.com/csp/article/K52219241
-
-K91608713: Configure SNMP traps to use the management interface
-https://support.f5.com/csp/article/K91608713
-
-K13535: Restricting SNMP access to the BIG-IP system
-https://support.f5.com/csp/article/K13535
-
-K13080: Configuring the BIG-IP system to log to a remote syslog server (11.x - 16.x)
-https://support.f5.com/csp/article/K13080
-
-K13946: Troubleshooting ConfigSync and device service clustering issues
-https://support.f5.com/csp/article/K13946
-
-K13452: Configure a virtual server to serve multiple HTTPS sites using the TLS Server Name Indication feature
-https://support.f5.com/csp/article/K13452
-
-K14783: Overview of the Client SSL profile (11.x - 16.x)
-https://support.f5.com/csp/article/K14783
-
-K15434: Overview of the HTTP Compression profile
-https://support.f5.com/csp/article/K15434
-
-K7727: License activation may be required before a software upgrade for BIG-IP
-https://support.f5.com/csp/article/K7727
-
-K7172: Overview of the End User Diagnostics software
-https://support.f5.com/csp/article/K7172
-
+| K13132: Backing up and restoring BIG-IP configuration files with a UCS archive | https://support.f5.com/csp/article/K13132 | 
+| K34745165: Managing software images on the BIG-IP system | https://support.f5.com/csp/article/K34745165 | 
+| K12173: Overview of BIG-IP administrative access controls | https://support.f5.com/csp/article/K12173 | 
+| K13121: Changing system maintenance account passwords (11.x - 16.x) | https://support.f5.com/csp/article/K13121 | 
+| K17403: Configuring RADIUS authentication for administrative users | https://support.f5.com/csp/article/K17403 |
+| K13205: Configuring the BIG-IP system to resolve DNS hostnames (11.x and later) | https://support.f5.com/csp/article/K13205 | 
+| K13380: Configuring the BIG-IP system to use an NTP server from the command line (11.x - 16.x) | https://support.f5.com/csp/article/K13380 | 
+| K52219241: Configuring SNMP access to the BIG-IP system | https://support.f5.com/csp/article/K52219241 |
+| K91608713: Configure SNMP traps to use the management interface | https://support.f5.com/csp/article/K91608713|
+| K13535: Restricting SNMP access to the BIG-IP system | https://support.f5.com/csp/article/K13535 |
+| K13080: Configuring the BIG-IP system to log to a remote syslog server (11.x - 16.x) | https://support.f5.com/csp/article/K13080 |
+| K13946: Troubleshooting ConfigSync and device service clustering issues | https://support.f5.com/csp/article/K13946 |
+| K13452: Configure a virtual server to serve multiple HTTPS sites using the TLS Server Name Indication feature | https://support.f5.com/csp/article/K13452 | 
+| K14783: Overview of the Client SSL profile (11.x - 16.x) | https://support.f5.com/csp/article/K14783 |
+| K15434: Overview of the HTTP Compression profile | https://support.f5.com/csp/article/K15434 
+| K7727: License activation may be required before a software upgrade for BIG-IP | https://support.f5.com/csp/article/K7727|
+| K7172: Overview of the End User Diagnostics software | https://support.f5.com/csp/article/K7172|
 | K2633: Instructions for submitting a support case to F5 | https://support.f5.com/csp/article/K2633 |
 | K12878: Generating diagnostic data using the qkview utility | https://support.f5.com/csp/article/K12878| 
 | K10749: Packet filter system logs | https://support.f5.com/csp/article/K10749
