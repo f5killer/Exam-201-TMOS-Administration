@@ -102,4 +102,4 @@ About BIG-IQ, ensure that you know the main functions of the product, e.g.
 - Create new pools, nodes, iRules
 - Revert Configuration 
 
-F5 TMOS 201 LAB Guide is available at cost of 1$, Please mail to agurunetworks@gmail.com
+F5 TMOS 201 LAB Guide is available at cost of 3$, Please mail to agurunetworks@gmail.com
