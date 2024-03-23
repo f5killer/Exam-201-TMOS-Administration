@@ -5,7 +5,7 @@ This guide is based on blueprint version 13.1 described in the article K29900360
 If it is helpful then please [Buy Me A Coffee](https://www.buymeacoffee.com/Opscyber)
 
 Guys Please support us, while buying F5 201 TMOS Administration Course: https://youtu.be/Q-GPb4EREgU
-
+[![F5 TMOS 101](https://www.buymeacoffee.com/opscyber/e/235189)]
 [![F5 TMOS 201](https://github.com/f5killer/Exam-201-TMOS-Administration/blob/main/f5_201.png)]
 
 | Article Name | Links |
