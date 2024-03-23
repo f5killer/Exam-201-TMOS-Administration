@@ -2,10 +2,13 @@
 
 Hello guys, this is a new guide that I have created for those who are interested in taking the 201 - TMOS Administration exam of F5 Networks. 
 This guide is based on blueprint version 13.1 described in the article K29900360. 
+
+F5 101 [F5 TMOS 101](www.buymeacoffee.com/opscyber/e/235189)
+
 If it is helpful then please [Buy Me A Coffee](https://www.buymeacoffee.com/Opscyber)
 
 Guys Please support us, while buying F5 201 TMOS Administration Course: https://youtu.be/Q-GPb4EREgU
-[F5 TMOS 101](www.buymeacoffee.com/opscyber/e/235189)
+
 
 [![F5 TMOS 201](https://github.com/f5killer/Exam-201-TMOS-Administration/blob/main/f5_201.png)]
 
